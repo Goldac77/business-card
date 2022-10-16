@@ -14,8 +14,12 @@ function Info() {
             </div>
 
             <div className='info-links'>
-                <a href="#" className='link-1'> <BsFillEnvelopeFill/> <span>Email</span></a>
-                <a href="#" className='link-2'> <FaLinkedin/> <span>LinkedIn</span></a>
+                <a href="mailto:amemaziornicholas77@gmail.com" className='link-1'> <BsFillEnvelopeFill/> <span>Email</span></a>
+                <a 
+                href="https://www.linkedin.com/in/nicholas-amemazior-88b3601a3/" target="_blank" rel='noopener noreferrer'
+                className='link-2'> 
+                <FaLinkedin/> <span>LinkedIn</span>
+                </a>
             </div>
         </div>
     )

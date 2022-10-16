@@ -5,8 +5,8 @@ import '../App.css';
 function Footer() {
     return (
         <div className="footer-links">
-            <a href="#"> <FaTwitterSquare/></a>
-            <a href="#"> <FaGithubSquare/></a>
+            <a href="https://twitter.com/home" target="_blank" rel='noopener noreferrer'> <FaTwitterSquare/></a>
+            <a href="https://github.com/Goldac77" target="_blank" rel='noopener noreferrer'> <FaGithubSquare/></a>
         </div>
     )
 }
