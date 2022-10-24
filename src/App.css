@@ -47,10 +47,18 @@
   color: #2B283A;
 }
 
+.link-1:hover {
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.5), 0 6px 20px 0 rgba(255, 255, 255, 0.5);
+}
+
 .link-2 {
   border-color: #297FE5;
   color: #FFF;
   background-color: #297FE5;
+}
+
+.link-2:hover {
+  box-shadow: 0 4px 8px 0 rgba(41, 127, 229, 0.5), 0 6px 20px 0 rgba(41, 127, 229, 0.5);
 }
 
 /*About Styling*/

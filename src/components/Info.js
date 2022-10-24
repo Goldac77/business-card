@@ -1,4 +1,4 @@
-import profile_pic from '../images/profile_pic2.jpg';
+import profile_pic from '../images/profile_pic.jpg';
 import {BsFillEnvelopeFill} from 'react-icons/bs';
 import {FaLinkedin} from 'react-icons/fa';
 import '../App.css';
