@@ -7,7 +7,7 @@ function Info() {
     return (
         <div className='info-div'>
             <div className="info-head">
-                <img src={profile_pic} alt="" />
+                <img src={profile_pic} alt="Profile_Picture" loading='lazy' />
                 <h2>Nicholas Amemazior</h2>
                 <h3>Frontend Developer</h3>
                 <p>Website Link Here</p>
